@@ -6,7 +6,7 @@
 
 ![MD GitHub stats](https://github-readme-stats.vercel.app/api?username=mdg0m35&show_icons=true&theme=merko)
 
-### Linguagens, Banco de Dados e Tecnologias que utilizo no dia a dia ✔️
+### Linguagens e Tecnologias que utilizo no dia a dia ✔️
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
