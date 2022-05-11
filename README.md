@@ -19,11 +19,6 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Apaixonado ❤️ por Tecnologia ⛭
-### Cursos📚 que estou concluindo  👇🏼
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D0)
-![](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Programas de Edição 🎨 que uso no dia a dia ✔️
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
