@@ -1,41 +1,56 @@
-### <h2>Olá, sou <i><b>Marcos David</h2> 👨‍🦱 👋
+
+# Olá! 👋 Eu sou Marcos David
+
+### Desenvolvedor de Software | Flutter, Dart e Inteligência Artificial
+
+Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, meu foco está na criação de aplicações com **Flutter e Dart**, utilizando inteligência artificial como ferramenta de apoio ao desenvolvimento, à resolução de problemas e à melhoria do código.
+
+Busco evoluir continuamente por meio de projetos práticos, aprendizado constante e desenvolvimento de soluções úteis.
+
+---
+
+## 🚀 Foco atual
+
+- 📱 Desenvolvimento de aplicações com Flutter e Dart
+- 🤖 Inteligência artificial aplicada ao desenvolvimento de software
+- 🔌 Integração de aplicações com serviços de backend
+- 🗄️ Utilização do Supabase em projetos
+- 🌐 Conhecimentos complementares em HTML, CSS e JavaScript
+
+## 🛠️ Tecnologias e ferramentas
+
+### Desenvolvimento de aplicações
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Desenvolvimento web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Inteligência artificial
+
+🤖 Utilizo ferramentas de IA para apoiar a programação, analisar erros, investigar soluções e aprimorar o desenvolvimento de aplicações.
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mdg0m35&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mdg0m35&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🎨 Conhecimentos complementares
+
+Também tenho experiência com ferramentas de edição e criação visual, incluindo Photoshop e After Effects.
+
+## 📫 Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-david-b70250119/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdavidgomes/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marc05d4vid)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdavidgomes/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/marcos-david-b70250119)
-[![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/BKVUVCV3TN7PN1)
 
-![MD GitHub stats](https://github-readme-stats.vercel.app/api?username=mdg0m35&show_icons=true&theme=merko)
+---
 
-### Linguagens e Tecnologias que utilizo no dia a dia ✔️
-
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Apaixonado ❤️ por Tecnologia ⛭
-
-### Programas de Edição 🎨 que uso no dia a dia ✔️
-![](https://aleen42.github.io/badges/src/photoshop.svg)
-![](https://aleen42.github.io/badges/src/illustrator.svg)
-![](https://aleen42.github.io/badges/src/after_effects.svg)
-  
-### Curso On-line sem certificado ✔️
-   <img src="https://user-images.githubusercontent.com/57731043/151671333-614718d2-303d-4831-8f5c-d94e28cfc697.png" width="80px">
-      
-    
-
-    
-
-
-
-    
-
-      
-
-    
+⭐ Obrigado por visitar meu perfil!
