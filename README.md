@@ -35,11 +35,6 @@ Busco evoluir continuamente por meio de projetos práticos, aprendizado constant
 
 🤖 Utilizo ferramentas de IA para apoiar a programação, analisar erros, investigar soluções e aprimorar o desenvolvimento de aplicações.
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mdg0m35&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mdg0m35&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎨 Conhecimentos complementares
 
